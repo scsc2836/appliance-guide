@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://scsc2836.github.io/appliance-guide/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/air-purifier/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/robot-vacuum/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/air-purifier/air-purifier-filter-guide.html</loc><lastmod>2026-05-21</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/air-purifier/air-purifier-guide-2026.html</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/dehumidifier-guide-2026.html</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/dehumidifier-maintenance.html</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/dehumidifier-power-cost.html</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/dehumidifier-room-size.html</loc><lastmod>2026-05-21</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/dehumidifier/dehumidifier-vs-purifier.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/robot-vacuum/robot-vacuum-guide-2026.html</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://scsc2836.github.io/appliance-guide/robot-vacuum/robot-vs-stick-vacuum.html</loc><lastmod>2026-05-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

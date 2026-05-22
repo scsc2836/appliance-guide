@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#2563eb"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="1200" y="630" font-family="sans-serif" font-size="340" fill="rgba(255,255,255,0.12)" text-anchor="end" dominant-baseline="text-after-edge">📋</text>
+  <text x="100" y="220" font-family="'Noto Sans TC', sans-serif" font-size="52" font-weight="bold" fill="white">家電評測指南</text>
+  <text x="100" y="300" font-family="'Noto Sans TC', sans-serif" font-size="36" fill="rgba(255,255,255,0.85)">專業家電選購建議，幫你找到最適合的產品</text>
+  <line x1="100" y1="350" x2="360" y2="350" stroke="rgba(255,255,255,0.5)" stroke-width="3"/>
+</svg>

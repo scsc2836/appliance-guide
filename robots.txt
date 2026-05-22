@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scsc2836.github.io/appliance-guide/sitemap.xml
